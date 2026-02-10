@@ -10,6 +10,15 @@ The focus is on **data preprocessing, dimensionality reduction, classification, 
 - Use Principal Component Analysis (PCA)
 - Explore clustering in reduced-dimensional space
 
+## How to run the project
+
+This project is implemented as a Jupyter Notebook.
+
+- Open `breast_cancer_analysis.ipynb`
+
+To run the notebook locally, install the following Python packages: <br>
+```pip install pandas numpy matplotlib scikit-learn jupyter```
+
 ## Dataset Overview
 
 - Dataset source: [Breast Cancer Wisconsin (Diagnostic) dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data)
