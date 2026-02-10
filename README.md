@@ -43,8 +43,8 @@ The focus is on **data preprocessing, dimensionality reduction, classification, 
 ## Results
 | Model | Accuracy |
 |------|----------|
-| SVM (full features) | ~98.2% |
-| SVM (PCA-reduced) | ~97.4% |
+| SVM (full features) | ~96.5% to 98.2% |
+| SVM (PCA-reduced) | ~95.6% to 97.4% |
 
 ## Key Observations
 
